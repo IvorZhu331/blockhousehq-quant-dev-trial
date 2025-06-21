@@ -1,2 +1,2 @@
-# blockhousehq-quant-dev-trial-template
+# blockhousehq-quant-dev-trial
 Take home project for blockhouse capital
